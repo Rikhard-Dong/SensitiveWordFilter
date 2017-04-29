@@ -24,3 +24,6 @@
 > public String replaceSensitiveWords(String txt, char replaceChars, int matchType)
 
 传入文本后替换敏感词汇, 如果不指定replaceChars, 则默认使用"*"替换
+
+## 使用
+下载io.ride.Sensitive.jar, 添加到工程中即可
